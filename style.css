@@ -1,0 +1,7 @@
+body{background-color: aquamarine;}
+h1{padding-left: 200px; font-size: 80px;}
+button{ width: 150px;background-color: blueviolet;font-size: 30px;}
+button:hover{ background-color: rgb(77, 165, 59);}
+.one{width: 300px; background-color: rgb(89, 95, 112);}
+.two{width: 600px; height: 150px; background-color: aqua;}
+.my{display: inline-flex; padding-top: 15px;}
